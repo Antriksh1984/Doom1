@@ -1,6 +1,7 @@
 ### 1. Environment Setup
 
 First, ensure you have the **Emscripten SDK** installed and activated in your terminal.
+Clone https://github.com/chocolate-doom/chocolate-doom for source code
 
 ```bash
 cd ~/emsdk
